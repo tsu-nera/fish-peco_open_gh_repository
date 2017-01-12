@@ -17,6 +17,8 @@ Please bind peco_open_gh_repository to your favorite key.
 
 If you'd like to bind CTRL+x CTRL+l
 
+```fish
 function fish_user_key_bindings
   bind \cx\cl peco_open_gh_repository
 end
+```
